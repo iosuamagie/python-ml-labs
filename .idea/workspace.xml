@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d8e3c13-b576-4a29-8e6f-d21c1e999bc7" name="Changes" comment="Laboratorul 2 - Structuri de Control si Laboratorul 3 - Functii">
-      <change afterPath="$PROJECT_DIR$/4lab/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4lab/exercitii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4lab/main.py" afterDir="false" />
+    <list default="true" id="9d8e3c13-b576-4a29-8e6f-d21c1e999bc7" name="Changes" comment="Lab 4 - AI, Machine Learning, Data  Science">
+      <change afterPath="$PROJECT_DIR$/5lab/KNN.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6lab/RL.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
@@ -21,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -47,17 +47,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/drago/PycharmProjects/PythonProject/4lab"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/drago/PycharmProjects/PythonProject/4lab&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\drago\PycharmProjects\PythonProject\4lab" />
@@ -143,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774518845477</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lab 4 - AI, Machine Learning, Data  Science">
+      <option name="closed" value="true" />
+      <created>1776588160067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776588160068</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +169,8 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="Laboratorul 1 , Tipuri de date" />
     <MESSAGE value="Laboratorul 2 - Structuri de Control si Laboratorul 3 - Functii" />
-    <option name="LAST_COMMIT_MESSAGE" value="Laboratorul 2 - Structuri de Control si Laboratorul 3 - Functii" />
+    <MESSAGE value="Lab 4 - AI, Machine Learning, Data  Science" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 4 - AI, Machine Learning, Data  Science" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
