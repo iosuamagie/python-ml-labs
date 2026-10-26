@@ -595,7 +595,7 @@ wheels = [
 ]
 
 [[package]]
-name = "pythonproject"
+name = "python-ml-labs"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
